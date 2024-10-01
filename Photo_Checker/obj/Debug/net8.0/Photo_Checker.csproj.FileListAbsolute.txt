@@ -49,3 +49,4 @@ C:\Users\User\Desktop\asd\Photo_Checker\obj\Debug\net8.0\refint\Photo_Checker.dl
 C:\Users\User\Desktop\asd\Photo_Checker\obj\Debug\net8.0\Photo_Checker.pdb
 C:\Users\User\Desktop\asd\Photo_Checker\obj\Debug\net8.0\Photo_Checker.genruntimeconfig.cache
 C:\Users\User\Desktop\asd\Photo_Checker\obj\Debug\net8.0\ref\Photo_Checker.dll
+C:\Users\User\Desktop\asd\Photo_Checker\obj\Debug\net8.0\Photo_Checker.sourcelink.json
