@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Photo_Checker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f14b4fd4d7487a6a680fa8dfadc30b6ce2e7a256")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb32c088ef04cda334893a09754831cf8f0d8424")]
 [assembly: System.Reflection.AssemblyProductAttribute("Photo_Checker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Photo_Checker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
